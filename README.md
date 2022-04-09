@@ -1,16 +1,23 @@
-### Hi there 👋
+## _Make change easy - Then make easy change_
 
-<!--
-**MaiKaY/MaiKaY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, here is Maik 👋
 
-Here are some ideas to get you started:
+I am a passionate and eager learning software engineer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I believe in
+
+- [Domain Driven Design](https://martinfowler.com/bliki/DomainDrivenDesign.html)
+- [Clean Architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html)
+- [Service Oriented Architecture](https://medium.com/@SoftwareDevelopmentCommunity/what-is-service-oriented-architecture-fa894d11a7ec)
+- [Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html)
+
+## My _current_ preferred tech stack
+
+- Frontend: TypeScript, React, Material Design
+- Backend: TypeScript, Express, GraphQL
+- Infrastructure: AWS, Infrastructure as Code with AWS CDK written in TypeScript
+
+## You can find me here
+
+- [LinkedIn](https://www.linkedin.com/in/maikschmidt1337/)
+- [medium](https://medium.com/@maikschmidt)
