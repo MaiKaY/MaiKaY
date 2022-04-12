@@ -13,11 +13,11 @@ I am a passionate and eager learning software engineer.
 
 ## My _current_ preferred tech stack
 
-- Frontend: TypeScript, React, Material Design
-- Backend: TypeScript, Express, GraphQL
+- [Frontend](https://github.com/MaiKaY/todo-frontend): TypeScript, React, Material Design
+- [Backend](https://github.com/MaiKaY/todo-backend): TypeScript, Express, GraphQL
 - Infrastructure: AWS, Infrastructure as Code with AWS CDK written in TypeScript
 
 ## You can find me here
 
 - [LinkedIn](https://www.linkedin.com/in/maikschmidt1337/)
-- [medium](https://medium.com/@maikschmidt)
+- [medium.com](https://medium.com/@maikschmidt)
